@@ -1,5 +1,6 @@
 import java.util.*;
 public class sortingTechniques {
+    
     static int arr[];
     static Scanner readData = new Scanner(System.in);
     static String userName;
